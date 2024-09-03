@@ -1,0 +1,41 @@
+
+ .card{
+  width: 300px;
+  background-color: rgb(10, 19, 149);
+  border-radius: 2px;
+  overflow: hidden;
+  color: white;
+  opacity: 80;
+ }
+.img{
+  position: relative;
+}
+/* className="w-[40px] h-[40px] bg-white rounded-full absolute right-2 bottom-3 grid place-items-center" */
+.heartBtn{
+    width: 40px;
+       height: 40px;
+       border-radius:9999px;
+       position: absolute;
+       right: 0.5rem ;
+       /* bottom: 0.25 rem; */
+       top: 8.75rem;
+        display: grid;
+        place-items: center;
+        background-color: white;
+       
+}
+/* className="text-white font-semibold text-lg loading-6" */
+.courseTitle{
+font-size: 1.125rem ;
+line-height: 1.75rem ;
+font-weight: 600;
+padding-left: 12px;
+padding-right: 12px;
+}
+.courseDes{
+margin-top: 2px;
+align-items: center;
+/* justify-content: center; */
+padding-left: 12px;
+padding-right: 12px;
+}

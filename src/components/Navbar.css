@@ -1,0 +1,16 @@
+.navbar{
+background: #121441;
+padding: 16px;
+ }
+ /* "text-3xl font-bold text-center text-white "  */
+.title{
+    font-size: 1.875rem /* 30px */;
+  
+    --tw-text-opacity: 1;
+    color: white;
+    line-height: 2.25rem;
+    font-weight: 700;
+    text-align:center;
+
+}
+

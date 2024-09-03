@@ -1,0 +1,11 @@
+.cards{
+display: flex;
+/* align-items:flex-start; */
+
+flex-wrap: wrap;
+justify-content: center;
+gap: 1rem;
+/* margin-bottom: 1rem; */
+
+}
+/* className="flex flex-wrap justify-center gap-4 mb-4" */

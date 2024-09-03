@@ -1,0 +1,22 @@
+.app{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(47, 46, 124);
+
+}
+/* className='w-11/12 max-w-[1200px] mx-auto flex flex-wrap justify-center items-center min-h-[500vh]' */
+.app_loadCard{
+  width: 91.666667%;
+  max-width: 1200px;
+  margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    /* min-height: 500vh; */
+}
+.backgd{
+  background-color: rgb(47, 46, 124);
+}

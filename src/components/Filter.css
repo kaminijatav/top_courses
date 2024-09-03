@@ -1,0 +1,32 @@
+
+/* className="w-11/12 flex flex-wrap max-w-max space-x-4 gap-y-4 mx-auto py-4  " */
+ .filter{
+    width: 91.666667%;
+    margin-left: auto;
+      margin-right: auto;
+      max-width: max-content;
+      display: flex;
+      flex-wrap: wrap;
+       padding-top: 1rem; 
+      padding-bottom: 1rem; 
+      row-gap: 1rem;
+      justify-content: center;
+      /* align-items: center; */
+      /* min-height: 500vh; */
+
+
+  } 
+  .btn{
+    padding-left: 12px;
+    padding-right:12px ;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: rgb(33, 19, 59);
+    color: white;
+    margin: 4px 4px ;
+    border-radius: 8px;
+    border: 2px solid white;
+  }
+  .btn:hover{
+    background-color: rgb(52, 52, 152);
+  }
